@@ -1,8 +1,8 @@
 cask "sitelog" do
-  version "0.0.1"
-  sha256 "6a8fa08d6551f5a9fa81f740fc0e12c1739a858c6e3bfb565bda3508db2e1e5f"
+  version "0.0.2"
+  sha256 "9b37ebee5a58751e2088fcbd90485131b753340d66657b9f5d629a938116a8ed"
 
-  url "https://github.com/matthoare117/homebrew-tools/releases/download/sitelog-v0.0.1/Sitelog-0.0.1-arm64-mac.zip"
+  url "https://github.com/matthoare117/homebrew-tools/releases/download/sitelog-v0.0.2/Sitelog-0.0.2-arm64-mac.zip"
   name "Sitelog"
   desc "Sitelog desktop app"
   homepage "https://github.com/matthoare117/workshop"
