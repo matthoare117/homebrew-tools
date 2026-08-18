@@ -1,8 +1,8 @@
 cask "toolchest" do
-  version "0.0.82"
-  sha256 "675f442f33725dc4439f611f2c8b5fc64605b3a53e929eaaae22a3af6a366abc"
+  version "0.0.83"
+  sha256 "e16719919d0bf5a5e5bb140bc295a367a6c804007f67271837d7da79a554804e"
 
-  url "https://github.com/matthoare117/homebrew-tools/releases/download/toolchest-v0.0.82/toolchest-0.0.82-arm64-mac.zip"
+  url "https://github.com/matthoare117/homebrew-tools/releases/download/toolchest-v0.0.83/toolchest-0.0.83-arm64-mac.zip"
   name "Toolchest"
   desc "Toolchest desktop app"
   homepage "https://github.com/matthoare117/workshop"
